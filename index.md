@@ -10,17 +10,17 @@ I am broadly interested in theoretical computer science. Specifically, I am inte
 **Preprints**
 <ol>
 <li>Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples </li>
-  Under Submission to STOC 2020.
+  *Under Submission to STOC 2020.*<br>
   Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
 </ol>
 <br>
-*2019*
+**2019**
 <ol>
 <li> Quantifying Error in the Presence of Confounders for Causal Inference  </li>
-     New in ML Workshop at NeurIPS 2019.
+     *New in ML Workshop at NeurIPS 2019.*<br>
      Rathin Desai, Amit Sharma
 <li> GARUDA : GMRT ARCHIVAL UTILITY FOR DATA ANALYSIS </li>
-     Publications of the Astronomical Society of the Pacific.
+     *Publications of the Astronomical Society of the Pacific.*<br>
      Rathin Desai, Shubhankar Deshpande, Archit Sakhadeo, Shadab Shaikh,Yogesh Wadadekar, 
      Huib Intema, B. Ratnakumar, Lijo George, C. H. Ishwara-Chandra and Divya Oberoi
 </ol>
