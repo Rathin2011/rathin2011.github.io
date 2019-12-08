@@ -1,8 +1,9 @@
 
 
 ## Biography
-I am currently a research intern at National University of Singapore working with Prof. Arnab Bhattacharyya and Prof. Ioannis Panageas.
+I am currently a research intern at National University of Singapore working with <a href = "https://www.comp.nus.edu.sg/~arnab/">Prof. Arnab Bhattacharyya </a> and <\a href="https://panageas.github.io">Prof. Ioannis Panageas.
 Before that, I was an intern at Microsoft Research India with Dr. Amit Sharma. I completed my undergraduate at Univ. of Pune, majoring in Computer Engineering.
+During my undergrad, I have been fortunate to work with Dr. Piyush Srivastava at TIFR and Dr. Yogesh Wadadekar and Dr. Dr. C.H. Ishwara Chandra at NCRA-TIFR.
 I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
 
 **Interests. Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions**
