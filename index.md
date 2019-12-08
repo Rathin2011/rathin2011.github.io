@@ -1,7 +1,6 @@
-##
----
 
-### Introduction
+
+## Introduction
 I am currently a research intern at National University of Singapore working with Prof. Arnab Bhattacharyya and Prof. Ioannis Panageas.
 
 I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
