@@ -6,7 +6,7 @@ Before that, I was an intern at Microsoft Research India with <a href="amitsharm
 During my undergrad, I have been fortunate to work with <a href="http://www.tifr.res.in/~piyush.srivastava/">Dr. Piyush Srivastava</a> at TIFR and <a href="http://www.ncra.tifr.res.in/~yogesh/">Dr. Yogesh Wadadekar</a> and <a href="http://www.ncra.tifr.res.in/~ishwar/"> Dr. C.H. Ishwara Chandra </a> at NCRA-TIFR.
 I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
 
-**Interests. Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions**
+**Interests. Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions and Computational Complexity theory**
 ### Publications
 **Preprints**
 <ol>
