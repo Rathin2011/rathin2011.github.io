@@ -9,7 +9,7 @@ I am broadly interested in theoretical computer science. Specifically, I am inte
 ### Publications
 **Preprints**
 <ol>
-<li>Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples </li>
+<li><a href="https://rathin20.github.io">Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples</a></li>
   <em>Under Submission to STOC 2020.</em><br>
   Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
 </ol>
