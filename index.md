@@ -5,7 +5,7 @@ I am currently a research intern at National University of Singapore working wit
 
 I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
 
-# Interests. Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions
+**Interests. Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions**
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
