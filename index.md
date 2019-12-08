@@ -1,21 +1,10 @@
-## Portfolio
-
+##
 ---
 
-### Category Name 1 
+### Introduction
+I am currently a research intern at National University of Singapore working with Prof. Arnab Bhattacharyya and Prof. Ioannis Panageas.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
 
 ### Category Name 2
 
