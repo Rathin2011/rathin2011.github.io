@@ -26,10 +26,6 @@ I am broadly interested in theoretical computer science. Specifically, I am inte
      Rathin Desai, Shubhankar Deshpande, Archit Sakhadeo, Shadab Shaikh,Yogesh Wadadekar, 
      Huib Intema, B. Ratnakumar, Lijo George, C. H. Ishwara-Chandra and Divya Oberoi
 </ol>
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
