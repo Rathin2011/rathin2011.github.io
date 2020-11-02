@@ -1,5 +1,5 @@
 
-
+<script src="konami.js"></script>
 ## Biography
 I am currently a research intern at National University of Singapore working with <a href = "https://www.comp.nus.edu.sg/~arnab/">Prof. Arnab Bhattacharyya </a> and <a href="https://panageas.github.io">Prof. Ioannis Panageas</a>.
 Before that, I was an intern at Microsoft Research India with <a href="amitsharma.in">Dr. Amit Sharma</a>. I completed my undergraduate at Univ. of Pune, majoring in Computer Engineering.
