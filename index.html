@@ -11,7 +11,7 @@
       margin: 0;
       padding: 0;
       color: #333;
-      background-color: #fafafa;
+      background-color: #f2f2f2; /* softer background for black-and-white picture */
     }
     header {
       background: #003262;
@@ -27,10 +27,20 @@
       margin: 0.5rem 0 0;
       font-size: 1.1rem;
     }
+    .profile-pic {
+      display: block;
+      margin: 1.5rem auto;
+      width: 200px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
     main {
       max-width: 850px;
       margin: 2rem auto;
       padding: 0 1rem;
+      background: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
     h2 {
       border-bottom: 2px solid #003262;
@@ -63,6 +73,8 @@
   <header>
     <h1>Rathin Desai</h1>
     <p>PhD Candidate · Department of Computer Science · Boston University</p>
+    <!-- Replace profile.jpg with your actual picture filename -->
+    <img src="profile.jpg" alt="Rathin Desai" class="profile-pic">
   </header>
 
   <main>
