@@ -9,9 +9,13 @@ I am broadly interested in theoretical computer science, including statistical a
   <li><a href="https://arxiv.org/abs/2402.09483">Oracle-Efficient Differentially Private Learning with Public Data</a></li>
    <em>Neurips 2024, TPDP 2025.</em><br>
   Adam Block, Mark Bun, Rathin Desai, Abhishek Shetty, and Steven Wu
+<br>
+<br>
 <li><a href="https://arxiv.org/abs/2402.11119">Private Learning may be harder than Online Learning</a></li>
    <em>ALT 2024 (Outstanding Paper Award), TPDP 2024.</em><br>
   Mark Bun, Aloni Cohen, Rathin Desai
+<br>
+<br>
 <li><a href="https://arxiv.org/abs/2006.09735">Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples</a></li>
   <em>AISTATS 2021</em><br>
   Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
