@@ -7,11 +7,10 @@ I am broadly interested in theoretical computer science, including statistical a
 **Publications**
 <ol>
 <li><a href="https://rathin20.github.io">Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples</a></li>
-  <em>Under Submission to STOC 2020.</em><br>
+  <em>AISTATS 2021</em><br>
   Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
 </ol>
 <br>
-**2019**
 <br>
 <ol>
 <li> <a href="https://arxiv.org/pdf/1907.04805.pdf">Quantifying Error in the Presence of Confounders for Causal Inference</a> </li>
