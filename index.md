@@ -10,7 +10,6 @@ I am broadly interested in theoretical computer science, including statistical a
   <em>AISTATS 2021</em><br>
   Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
 <br>
-<ol>
 <li> <a href="https://arxiv.org/pdf/1907.04805.pdf">Quantifying Error in the Presence of Confounders for Causal Inference</a> </li>
      <em>New in ML Workshop at NeurIPS 2019.</em><br>
      Rathin Desai, Amit Sharma
