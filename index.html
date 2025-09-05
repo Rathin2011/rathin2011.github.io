@@ -1,65 +1,93 @@
-<style>
-  body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f2f2f2; /* adjust background here */
-    color: #333;
-  }
-  header {
-    background: #003262;
-    color: white;
-    padding: 2rem;
-    text-align: center;
-  }
-  header h1 {
-    margin: 0;
-    font-size: 2.2rem;
-  }
-  header p {
-    margin: 0.5rem 0 0;
-    font-size: 1.1rem;
-    color: #ccc;
-  }
-  .intro {
-    display: flex;
-    align-items: flex-start;
-    max-width: 950px;
-    margin: 2rem auto;
-    padding: 2rem;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    gap: 2rem;
-  }
-  .intro img {
-    width: 220px;
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    flex-shrink: 0;
-  }
-  .intro-text {
-    flex: 1;
-  }
-  h2 {
-    border-bottom: 2px solid #003262;
-    padding-bottom: 0.3rem;
-    margin-top: 2rem;
-    font-size: 1.5rem;
-  }
-  footer {
-    text-align: center;
-    padding: 2rem;
-    font-size: 0.9rem;
-    color: #666;
-  }
-</style>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rathin Desai</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2; /* adjust as needed */
+      color: #333;
+    }
+    header {
+      background: #003262;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.1rem;
+      color: #ccc;
+    }
+    .intro {
+      display: flex;
+      align-items: flex-start; /* ensures top alignment */
+      max-width: 950px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      gap: 2rem;
+    }
+    .intro img {
+      width: 220px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+      flex-shrink: 0;
+      margin-top: 0.4rem; /* small tweak so image aligns with heading */
+    }
+    .intro-text {
+      flex: 1;
+    }
+    h2 {
+      border-bottom: 2px solid #003262;
+      padding-bottom: 0.3rem;
+      margin-top: 0;
+      font-size: 1.5rem;
+    }
+    main {
+      max-width: 850px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #003262;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ol {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
 <body>
   <header>
     <h1>Rathin Desai</h1>
-    <p>PhD Student · Department of Computer Science · Boston University</p>
+    <p>PhD Candidate · Department of Computer Science · Boston University</p>
   </header>
 
   <section class="intro">
@@ -89,10 +117,36 @@
     </div>
   </section>
 
-  <main style="max-width:850px; margin:2rem auto; padding:2rem; background:white; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+  <main>
     <h2>Publications</h2>
     <ol>
-      <li>…</li>
+      <li>
+        <a href="https://arxiv.org/abs/2402.09483">Oracle-Efficient Differentially Private Learning with Public Data</a><br>
+        <em>NeurIPS 2024, TPDP 2025.</em><br>
+        Adam Block, Mark Bun, Rathin Desai, Abhishek Shetty, and Steven Wu
+      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2402.11119">Private Learning may be harder than Online Learning</a><br>
+        <em>ALT 2024 (Outstanding Paper Award), TPDP 2024.</em><br>
+        Mark Bun, Aloni Cohen, Rathin Desai
+      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2006.09735">Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples</a><br>
+        <em>AISTATS 2021</em><br>
+        Arnab Bhattacharyya, Rathin Desai, Sai Ganesh Nagarajan, Ioannis Panageas
+      </li>
+      <li>
+        <a href="https://arxiv.org/pdf/1907.04805.pdf">Quantifying Error in the Presence of Confounders for Causal Inference</a><br>
+        <em>New in ML Workshop at NeurIPS 2019.</em><br>
+        Rathin Desai, Amit Sharma
+      </li>
+      <li>
+        <a href="https://arxiv.org/pdf/1812.02358.pdf">GARUDA: GMRT Archival Utility for Data Analysis</a><br>
+        <em>Publications of the Astronomical Society of the Pacific.</em><br>
+        Rathin Desai, Shubhankar Deshpande, Archit Sakhadeo, Shadab Shaikh,
+        Yogesh Wadadekar, Huib Intema, B. Ratnakumar, Lijo George,
+        C. H. Ishwara-Chandra, Divya Oberoi
+      </li>
     </ol>
   </main>
 
@@ -100,3 +154,4 @@
     © 2025 Rathin Desai · Last updated September 2025
   </footer>
 </body>
+</html>
