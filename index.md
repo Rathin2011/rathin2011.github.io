@@ -1,12 +1,10 @@
 ## Biography
-I am currently a research intern at National University of Singapore working with <a href = "https://www.comp.nus.edu.sg/~arnab/">Prof. Arnab Bhattacharyya </a> and <a href="https://panageas.github.io">Prof. Ioannis Panageas</a>.
+I am a final year PhD student working under the supervision of <a href = "https://cs-people.bu.edu/mbun/">Mark Bun </a> at the Department of Computer Science, Boston University. Previously, I was a research intern at National University of Singapore working with <a href = "https://www.comp.nus.edu.sg/~arnab/">Prof. Arnab Bhattacharyya </a> and <a href="https://panageas.github.io">Prof. Ioannis Panageas</a>.
 Before that, I was an intern at Microsoft Research India with <a href="amitsharma.in">Dr. Amit Sharma</a>. I completed my undergraduate at Univ. of Pune, majoring in Computer Engineering.
 During my undergrad, I have been fortunate to work with <a href="http://www.tifr.res.in/~piyush.srivastava/">Dr. Piyush Srivastava</a> at TIFR and <a href="http://www.ncra.tifr.res.in/~yogesh/">Dr. Yogesh Wadadekar</a> and <a href="http://www.ncra.tifr.res.in/~ishwar/"> Dr. C.H. Ishwara Chandra </a> at NCRA-TIFR.
-I am broadly interested in theoretical computer science. Specifically, I am interested in developing algorithms for learning Probability structures based on the techniques used in analysis of boolean functions and Computational complexity theory in constrained settings.
+I am broadly interested in theoretical computer science, including statistical and computationl learning theory, distribution testing and privacy. 
 
-**Interests: Computational Learning Theory, High-Dimensional Probability, Analysis of Boolean Functions and Computational Complexity theory**
-### Publications
-**Preprints**
+**Publications**
 <ol>
 <li><a href="https://rathin20.github.io">Sample Efficient Statistics for Sparse Graphical Models from Truncated Samples</a></li>
   <em>Under Submission to STOC 2020.</em><br>
